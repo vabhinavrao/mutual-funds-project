@@ -1,0 +1,20 @@
+name,symbol,category,return,risk,expense_ratio,1 year returns%,3 year returns%,5 year returns%,alpha,aum(in ₹)
+L&T Emerging 25 Fund,LEF,Large Cap,12%,12,1.20%,16%,38%,67%,1.05,100B
+Kotak Emerging Equities Fund,KCEF,Large Cap,13%,13,1.25%,18%,44%,73%,1.10,150B
+IDFC MF Midcap Opportunities Fund,IDFCMFMO,Mid Cap,14%,16,1.50%,20%,48%,78%,1.25,200B
+SBI Small Cap Fund,SBISC,Small Cap,15%,20,1.75%,22%,52%,84%,1.40,300B
+HDFC Small Cap Fund,HDFSCL,Small Cap,16%,21,2.00%,24%,56%,88%,1.55,400B
+Axis Midcap Fund,AXISMID,Mid Cap,14%,16,1.50%,19%,47%,77%,1.25,250B
+Parag Parikh Long Term Equity Fund,PARAG,Large Cap,12%,11,1.15%,16%,37%,66%,1.00,125B
+Quantum Long Term Equity Fund,QUAN,Large Cap,13%,12,1.20%,17%,38%,67%,1.05,150B
+Nippon India Growth Fund,NIGF,Large Cap Growth,14%,14,1.35%,19%,46%,75%,1.15,200B
+Franklin India Prima Fund,FIPR,Large Cap Growth,15%,16,1.50%,21%,51%,82%,1.25,300B
+ICICI Prudential Bluechip Fund,IPPBL,Large Cap Blend,14%,13,1.40%,18%,44%,73%,1.15,250B
+SBI Bluechip Fund,SBIBL,Large Cap Blend,13%,12,1.30%,17%,39%,68%,1.10,300B
+L&T India Value Fund,LTIVF,Large Cap Value,11%,10,1.00%,14%,34%,62%,0.90,100B
+DSP BlackRock Micro Cap Fund,DSPBMIC,Micro Cap,17%,24,2.25%,25%,58%,91%,1.70,400B
+Mirae Asset Small and Midcap Fund,MASMF,Small and Mid Cap,16%,21,1.90%,23%,54%,85%,1.55,500B
+Aditya Birla Sun Life Frontline Equity Fund,ABSLF,Large Cap,14%,14,1.40%,19%,46%,75%,1.20,250B
+HDFC Equity Fund,HDFCEQ,Large Cap,13%,12,1.30%,17%,40%,68%,1.10,300B
+ICICI Prudential Value Discovery Fund,IPPVDF,Large Cap Value,12%,11,1.10%,15%,35%,64%,0.95,150B
+Franklin India Smaller Companies Fund,FISL,Small Cap,15%,20,1.80%,22%,52%,84%,1.45,500B
